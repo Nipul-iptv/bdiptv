@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="Logo Link" group-title=iptv"Grope Name"Discovery HD, Discovery HD
-https://drmlive.in/discoveryplus/play.php?id=discoveryhd
+#EXTINF:-1 tvg-logo="Logo Link" iptv"Kolkata Bangla "Zee Bangla ,Zee Bangla 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel
 m3u8 link
