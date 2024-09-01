@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Sony aath ", Channel Sony aath 
-https://drmlive.in/Sonyliv/?play=sony-aath
+#EXTINF:-1 tvg-logo="Logo Link" Kolkata Bangla ="Zee Bangla ", Channel Zee Bangla
+https://drmlive.in/zee5/play.php?id=625
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel
 m3u8 link
