@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name"Zee Bangla, Channel Zee Bangla
-https://drmlive.in/zee5/play.php?id=625
+#EXTINF:-1 tvg-logo="Logo Link" group-title=iptv"Grope Name"Discovery HD, Discovery HD
+https://drmlive.in/discoveryplus/play.php?id=discoveryhd
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel
 m3u8 link
