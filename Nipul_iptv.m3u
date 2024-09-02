@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="Logo Link Bangladesh "bangla ,Zee Bangla 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
 
-#EXTINF:-1 tvg-logo="link"Bangladesh ="bangla", Jamuna tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0rH0q7/1662487622-mdshamimislam.png"Bangladesh ="bangla", Jamuna tv
 http://103.89.248.10:8082/Jamuna/index.m3u8?token=1cad3b5cdcc408513fabaea954a41b69be42c2b9-bd70e2bc21a127ff7fa45606938ee06f-1725213923-1725203123
 
 #EXTINF:-1 tvg-logo="Logo Link" Bangladesh ="bangla", Chanal 24
