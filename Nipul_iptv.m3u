@@ -14,4 +14,5 @@ http://176.119.29.52/live.ts?channelId=81&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxBHrf2/1200px-Ekattor-TV-logo-svg.png" group-news="bangls", ekattor tv
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", NTv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzzwL5m/1200px-Rtv-bangladesh-svg.webp" group-news="Grope_Bangla ", Rtv
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
