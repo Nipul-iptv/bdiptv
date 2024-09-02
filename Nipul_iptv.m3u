@@ -30,6 +30,6 @@ http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1d7MzXh/Mytv-Bangladesh-Logo.png" group-news="bangla", My Tv
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FnRGB8W/2Q.jpg" group-news="bangla", mohona tv
-http://176.119.29.52/live.ts?channelId=103&uid=13603&deviceMac=00:1A:79:64:B4:A6h
+http://176.119.29.52/live.ts?channelId=103&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WKWQPNf/images-4.jpg" Group news="bangla", bijoy tv
 http://176.119.29.52/live.ts?channelId=85&uid=13603&deviceMac=00:1A:79:64:B4:A6
