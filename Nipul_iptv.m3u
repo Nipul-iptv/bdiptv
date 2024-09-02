@@ -16,3 +16,5 @@ http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzzwL5m/1200px-Rtv-bangladesh-svg.webp" group-news="Grope_Bangla ", Rtv
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82krCPf/images-1.jpg" group-news="Grope bangla", bangla vision
