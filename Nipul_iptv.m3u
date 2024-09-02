@@ -8,5 +8,5 @@ http://103.89.248.10:8082/Jamuna/index.m3u8?token=1cad3b5cdcc408513fabaea954a41b
 #EXTINF:-1 tvg-logo="Logo Link" Bangladesh ="bangla", Chanal 24
 http://103.89.248.26:8082/Chanal24/index.fmp4.m3u8?token=395484e7133ddc680e295f94cee3d22a6afb39d4-f2137efc43db10d388fcbff3c2d62153-1725214968-1725204168
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" Group-Bangladesh ="Bangla ",ATN_NEWS 
+http://103.89.248.10:8082/ATN-NEWS/index.m3u8?token=3f42983c951e390290706e97c83a95c2fe86218f-49fb36627c48599160a6ab5838adb334-1725253996-1725243196
