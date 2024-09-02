@@ -14,8 +14,10 @@ http://176.119.29.52/live.ts?channelId=81&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxBHrf2/1200px-Ekattor-TV-logo-svg.png" group-news="bangls", ekattor tv
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wzzwL5m/1200px-Rtv-bangladesh-svg.webp" group-news="Grope_Bangla ", Rtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzzwL5m/1200px-Rtv-bangladesh-svg.webp" group-news="_Bangla ", Rtv
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/82krCPf/images-1.jpg" group-news="Grope bangla", bangla vision
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82krCPf/images-1.jpg" group-news=" bangla", bangla vision
 http://176.119.29.52/live.ts?channelId=84&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBLnhVZ/images-2.png" group-jews="bangla",ekushey tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
