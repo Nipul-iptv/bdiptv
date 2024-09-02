@@ -27,3 +27,5 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/stream_t1_r1080001.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CmbyW7P/9k.jpg" group-news="bangla", desh tv
 http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1d7MzXh/Mytv-Bangladesh-Logo.png" group-news="bangla", My Tv
+https://mytvbangla.com/0.m3u8
