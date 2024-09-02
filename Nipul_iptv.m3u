@@ -35,3 +35,7 @@ http://176.119.29.52/live.ts?channelId=103&uid=13603&deviceMac=00:1A:79:64:B4:A6
 http://176.119.29.52/live.ts?channelId=85&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/51BF9D3/Maasranga-Television-Logo.jpg" group-news="bangla", maasranga tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png" group-title="Grope Name", deepotv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="Grope Name", asiantv
+https://mtlivestream.com/asian/ytlive/index.m3u8
