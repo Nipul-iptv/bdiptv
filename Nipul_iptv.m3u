@@ -9,7 +9,7 @@ http://103.89.248.10:8082/Jamuna/index.m3u8?token=8a2dd0473f3695b3b98d1b2794a6c1
 http://103.89.248.10:8082/Jamuna/tracks-v1a1/mono.m3u8?token=8a2dd0473f3695b3b98d1b2794a6c17d1d48c1c3-10e178a8ca9739b0303016558bc1226c-1725254595-1725243795
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DK1GfLF/images.png" alt="images" Group-news ="Bangla ",ATN_NEWS 
-http://103.89.248.10:8082/ATN-NEWS/index.m3u8?token=3f42983c951e390290706e97c83a95c2fe86218f-49fb36627c48599160a6ab5838adb334-1725253996-1725243196
+http://176.119.29.52/live.ts?channelId=81&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxBHrf2/1200px-Ekattor-TV-logo-svg.png" group-news="bangls", ekattor tv
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
