@@ -6,7 +6,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio
 http://103.89.248.10:8082/Jamuna/index.m3u8?token=8a2dd0473f3695b3b98d1b2794a6c17d1d48c1c3-10e178a8ca9739b0303016558bc1226c-1725254595-1725243795
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w4jNRCM/channel-24-logo-B70391-F779-seeklogo-com.png" news ="bangla", Chanal 24
-http://103.89.248.10:8082/Jamuna/tracks-v1a1/mono.m3u8?token=8a2dd0473f3695b3b98d1b2794a6c17d1d48c1c3-10e178a8ca9739b0303016558bc1226c-1725254595-1725243795
+http://176.119.29.52/live.ts?channelId=87&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DK1GfLF/images.png" alt="images" Group-news ="Bangla ",ATN_NEWS 
 http://176.119.29.52/live.ts?channelId=81&uid=13603&deviceMac=00:1A:79:64:B4:A6
