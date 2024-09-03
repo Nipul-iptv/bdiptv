@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=https://i.ibb.co/Kh6twv0/Zee-Bangla-logo.png" group-title= "Kolkata_bangal  ,Zee Bangla 
+#EXTINF:-1 tvg-logo=https://i.ibb.co/Kh6twv0/Zee-Bangla-logo.png" group-title= "Kolkatabangal",Zee Bangla 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0rH0q7/1662487622-mdshamimislam.png"group-title=="Bangladesh ", Jamuna tv
@@ -14,7 +14,7 @@ http://176.119.29.52/live.ts?channelId=81&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxBHrf2/1200px-Ekattor-TV-logo-svg.png" group-title="Bangladesh ", ekattor tv
 http://tv.cloudcdn.me/live.ts?channelId=95&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wzzwL5m/1200px-Rtv-bangladesh-svg.webp" group-title="_Bangladesh  ", Rtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzzwL5m/1200px-Rtv-bangladesh-svg.webp" group-title="Bangladesh", Rtv
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82krCPf/images-1.jpg" group-title=" Bangladesh ", bangla vision
