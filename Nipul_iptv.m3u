@@ -17,7 +17,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/82krCPf/images-1.jpg" group-title=" Bangladesh ", bangla vision
 http://176.119.29.52/live.ts?channelId=84&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBLnhVZ/images-2.png" group-title="Bangladesh ",ekushey tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PW8nXrT/images.png" group-title="Bangladesh ",ekushey tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6pWBCH/8-Dsbpg-Nez-E7eg-AAAAASUVORK5-CYII.jpg" group-title="Bangladesh ", boishakhi tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -52,7 +52,7 @@ http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png"group-title="Bangladesh ", GLOBAL TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 
-#EXTliNF:-1 tvg-logo="https://i.ibb.co/HBx2JHc/Zee-Bangla-Cinema.png" group-title="Kolkata Bangla ", ZeeBanglaCinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kh6twv0/Zee-Bangla-logo.png" group-title="Kolkata Bangla ", ZEE BANGLA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
+#EXTliNF:-1 tvg-logo="https://i.ibb.co/HBx2JHc/Zee-Bangla-Cinema.png" group-title="Kolkata Bangla ", ZeeBanglaCinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
