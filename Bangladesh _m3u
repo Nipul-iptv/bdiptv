@@ -1,6 +1,7 @@
+#EXTM3U
+Nipul GAMING
 #EXTM3#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kh6twv0/Zee-Bangla-logo.png" group-title="Kolkata Bangla ", ZEE BANGLA 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pL8CYq1/images.png" group-title="bangladesh", ekushey tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kh6twv0/Zee-Bangla-logo.png" group-title="Kolkata Bangla ", ZEE BANGLA 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
+
